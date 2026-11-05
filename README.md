@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=a5b4fc&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-b9f6ca?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
@@ -64,6 +63,7 @@
   <img src="https://img.shields.io/badge/MongoDB_Atlas-C8F2DC?style=flat-square&logo=mongodb&logoColor=1F6B45" alt="MongoDB Atlas" />
   <img src="https://img.shields.io/badge/Figma-F8C8DC?style=flat-square&logo=figma&logoColor=8A1F55" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-C5F3F0?style=flat-square&logo=canva&logoColor=0E7F7A" alt="Canva" />
+  <img src="https://img.shields.io/badge/Postman-FFD9B8?style=flat-square&logo=postman&logoColor=9A4B0B" alt="Postman" />
 </p>
 
 ---
@@ -86,4 +86,13 @@
 ---
 
 ## 📫 Connect With Me
-<p> <a href="mailto:yuktask15@gmail.com"> <img src="https://img.shields.io/badge/Email-yuktask15%40gmail.com-FFC9C9?style=for-the-badge&logo=gmail&logoColor=9A1F1F" alt="Email" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=footer" alt="footer" /> </p>
+
+<p>
+  <a href="mailto:yuktask15@gmail.com">
+    <img height="32" src="https://img.shields.io/badge/Email-yuktask15%40gmail.com-FFF3A8?style=flat-square&logo=gmail&logoColor=6B5B00" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=footer" alt="footer" />
+</p>
