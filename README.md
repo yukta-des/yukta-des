@@ -1,13 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=footer" alt="footer" />
+</p>
+
 <h1 align="center">Hello, I'm Yukta Kaduskar 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer+%7C+MERN;Exploring+Generative+AI+%26+AI+Agents;Building+intelligent%2C+user-friendly+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Software+Developer;Artificial+Intelligence+%26+Data+Science+Student;UI%2FUX+Designer;Turning+Ideas+Into+Digital+Experiences;I+Build.+I+Break.+I+Learn.+I+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-b9f6ca?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
 ---
@@ -28,38 +32,39 @@
 **💻 Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-AEDCFF?style=flat-square&logo=python&logoColor=2B4C7E" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF3A8?style=flat-square&logo=javascript&logoColor=6B5B00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-C9D7FF?style=flat-square&logo=cplusplus&logoColor=2B3A7E" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-FFD6E0?style=flat-square&logo=mysql&logoColor=7E2B45" alt="SQL" />
 </p>
 
 **⚡ Frameworks & Libraries**
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React.js-B8F0FF?style=flat-square&logo=react&logoColor=0B6E8A" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-C8F7C5?style=flat-square&logo=nodedotjs&logoColor=2E6B2B" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-E4E4E4?style=flat-square&logo=express&logoColor=333333" alt="Express" />
+  <img src="https://img.shields.io/badge/Django-B5EAD7?style=flat-square&logo=django&logoColor=0C4B33" alt="Django" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-BFEFFF?style=flat-square&logo=tailwindcss&logoColor=0E7490" alt="Tailwind CSS" />
 </p>
 
 **🗄️ Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-D4F5D0?style=flat-square&logo=mongodb&logoColor=2E6B2B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-FFE0B5?style=flat-square&logo=mysql&logoColor=8A4B0B" alt="MySQL" />
 </p>
 
 **🔧 Tools & Platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Cloudinary-000000?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB Atlas" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva" />
+  <img src="https://img.shields.io/badge/Git-FFCFC4?style=flat-square&logo=git&logoColor=9A2F1A" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-DCD6F7?style=flat-square&logo=github&logoColor=3B2F7E" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Cloudinary-CFE0FF?style=flat-square&logo=cloudinary&logoColor=2B3FA0" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-C8F2DC?style=flat-square&logo=mongodb&logoColor=1F6B45" alt="MongoDB Atlas" />
+  <img src="https://img.shields.io/badge/Figma-F8C8DC?style=flat-square&logo=figma&logoColor=8A1F55" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-C5F3F0?style=flat-square&logo=canva&logoColor=0E7F7A" alt="Canva" />
+  <img src="https://img.shields.io/badge/Postman-FFD9B8?style=flat-square&logo=postman&logoColor=9A4B0B" alt="Postman" />
 </p>
 
 ---
@@ -81,15 +86,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
 <p>
   <a href="mailto:yuktask15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yuktask15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-yuktask15%40gmail.com-FFC9C9?style=for-the-badge&logo=gmail&logoColor=9A1F1F" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=footer" alt="footer" />
 </p>
