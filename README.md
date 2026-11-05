@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=footer" alt="footer" />
-</p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=header" alt="header" />
 <h1 align="center">Hello, I'm Yukta Kaduskar 👋</h1>
 
 <p align="center">
