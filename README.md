@@ -86,12 +86,10 @@
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="mailto:yuktask15@gmail.com">
-    <img height="32" src="https://img.shields.io/badge/Email-yuktask15%40gmail.com-FFF3A8?style=flat-square&logo=gmail&logoColor=6B5B00" alt="Email" />
-  </a>
-</p>
+📧 **Email:** yuktask15@gmail.com
 
+🔗 **LinkedIn:** https://www.linkedin.com/in/yukta-kaduskar/
+<div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=footer" alt="footer" />
 </p>
