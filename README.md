@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=70&section=header" alt="header" /><br>
   Hello, I'm Yukta Kaduskar 👋
 </h1>
 
