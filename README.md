@@ -20,7 +20,6 @@
 - 🎓 Artificial Intelligence & Data Science student
 - 💻 Software Developer passionate about building intelligent and user-friendly applications
 - 🌐 Developer with experience in React, Node.js, Express, and MongoDB
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
 - 🎨 Interested in UI/UX design, modern web experiences, and clean interfaces
 - 🚀 Always learning new technologies and solving real-world problems through software
 
