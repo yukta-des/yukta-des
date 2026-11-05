@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
@@ -61,7 +60,6 @@
   <img src="https://img.shields.io/badge/MongoDB_Atlas-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB Atlas" />
   <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
 
 ---
@@ -83,14 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
