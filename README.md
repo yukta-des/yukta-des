@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-b9f6ca?style=for-the-badge" alt="Open to opportunities" />
 </p>
----
 
 ## 🧠 About Me
 
