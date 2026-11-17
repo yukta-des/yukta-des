@@ -85,7 +85,7 @@
 
 📧 **Email:** yuktask15@gmail.com
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/yukta-kaduskar/
+🔗 **Linkedin:** https://www.linkedin.com/in/yukta-kaduskar/
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5d8ff,100:d0bfff&height=100&section=footer" alt="footer" />
